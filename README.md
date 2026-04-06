@@ -35,7 +35,7 @@ A RESTful Task Management API built with **Laravel** and **Sanctum**. Features r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/RichiSoni/task-manager.git
 cd task-manager
 ```
 
